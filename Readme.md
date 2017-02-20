@@ -8,11 +8,11 @@
 * tomcat 8.0.*
 * java 1.8
 * mysql 5.7.*
-* DBUtils  v1.6
-* DBCP v2.1
-* Commons Pool v2.4
-* Commons Email v1.4
-* Javax Mail v1.4
+* DBUtils  v1.6 (https://commons.apache.org/proper/commons-dbutils/download_dbutils.cgi)
+* DBCP v2.1 (https://commons.apache.org/proper/commons-dbcp/download_dbcp.cgi)
+* Commons Pool v2.4 (http://commons.apache.org/proper/commons-pool/download_pool.cgi)
+* Commons Email v1.4 (https://commons.apache.org/proper/commons-email/download_email.cgi)
+* Javax Mail v1.4 (https://mvnrepository.com/artifact/javax.mail/mail/1.4.7)
 
 ## Description ##
 
